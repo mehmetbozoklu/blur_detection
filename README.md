@@ -3,6 +3,7 @@
 ![image](https://github.com/mehmetbozoklu/blur_detection/assets/8355508/d07e75c4-a595-4a0b-9bfa-5251c843cfc7)
 
 ## OUTPUT:
+================================
 "../dataset/DENEME.bmp"
 Lapm :4.43636
 Lapv :66.3239
