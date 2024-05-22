@@ -131,7 +131,7 @@ int main(int argc, char* argv[])
             return 1;
         }
 
-        imshow("Display window", img);
+        imshow(entry.path(), img);
 
         ml = lapm(img);
         vl = lapv(img);
@@ -166,6 +166,8 @@ int main(int argc, char* argv[])
         cout << table_nv[i].first << " (glnv): " << table_nv[i].second << endl;
         cout << endl;
     }
+
+    destroyAllWindows();
 
     return 0;
 }
