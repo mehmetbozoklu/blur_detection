@@ -4,6 +4,7 @@
 
 ## OUTPUT:
 ================================
+```
 "../dataset/DENEME.bmp"
 Lapm :4.43636
 Lapv :66.3239
@@ -59,3 +60,4 @@ Sorting pics from blur to clarity:
 ../dataset/DENEME5.bmp (lapv): 153.942
 ../dataset/DENEME5.bmp (teng): 2411.01
 ../dataset/DENEME5.bmp (glnv): 5.25397
+```
